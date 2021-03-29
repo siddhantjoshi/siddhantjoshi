@@ -1,6 +1,6 @@
 - 👋 Hi, I’m siddhant Sunil joshi
 - 👀 I’m interested in Machine Learnig, Hacking, Hardware-Project's
-- 💞️ I’m looking to collaborate on Jugadu Project's
+- 💞️ I’m looking to collaborate on Machine Learnig Project's 
 - 📫 email me 'siddhantjoshi501@gmail.com'
 
 <!---
