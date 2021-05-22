@@ -2,6 +2,7 @@
 - 👀 I’m interested in Machine Learnig, Hacking, Hardware-Project's
 - 💞️ I’m looking to collaborate on Machine Learnig Project's 
 - 📫 email me 'siddhantjoshi501@gmail.com'
+- 🔗 Research Gate https://www.researchgate.net/profile/Siddhant-Joshi-3
 
 <!---
 siddhantjoshi/siddhantjoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
